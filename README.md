@@ -18,4 +18,38 @@ International football games are matches that bring high emotion to the sport. I
 
 ## Data & Tools
 
-In this project I was tasked to find data that was of interest, as well as finding 
+In this project, I was tasked to find data that was of interest. The files were all found on Kaggle.
+
+● world-countries.json
+
+● goalscorers
+
+● results
+
+● shootouts
+
+This project used tools within python to create the charts and graphs. These tools include:
+
+●  Pandas
+
+● Seaborn
+
+● Matplotlib
+
+● Numpy
+
+● SciPy
+
+● SKLearn
+
+● Pylab
+
+## Folders
+
+The project was organized in folders. The folders include:
+
+● Project Management: Project Brief
+
+● Scripts: The Jupyter notebooks containing the coding for the analysis.
+
+● Analysis: The visualizations used for developing and explaining insights.
