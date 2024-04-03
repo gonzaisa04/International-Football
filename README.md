@@ -53,3 +53,6 @@ The project was organized in folders. The folders include:
 ● Scripts: The Jupyter notebooks containing the coding for the analysis.
 
 ● Analysis: The visualizations used for developing and explaining insights.
+
+# Visualizations
+The visuals were created on Tableau Public and Jupiter/Python. These visuals can be found here: [Tableau Presentation](https://public.tableau.com/views/InternationalFootball_17120251874890/Story1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
